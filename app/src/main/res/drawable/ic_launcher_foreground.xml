@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Music note with modern design -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28C52.34,28 51,29.34 51,31V65.17C49.83,64.43 48.46,64 47,64C42.58,64 39,67.58 39,72C39,76.42 42.58,80 47,80C51.42,80 55,76.42 55,72V39.66L69,43.66V57.17C67.83,56.43 66.46,56 65,56C60.58,56 57,59.58 57,64C57,68.42 60.58,72 65,72C69.42,72 73,68.42 73,64V31C73,29.34 71.66,28 70,28H54Z"/>
+    
+    <!-- Circular sound waves -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.3"
+        android:pathData="M47,35C43.13,35 40,38.13 40,42C40,45.87 43.13,49 47,49C50.87,49 54,45.87 54,42C54,38.13 50.87,35 47,35ZM47,39C48.66,39 50,40.34 50,42C50,43.66 48.66,45 47,45C45.34,45 44,43.66 44,42C44,40.34 45.34,39 47,39Z"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.2"
+        android:pathData="M65,43C61.13,43 58,46.13 58,50C58,53.87 61.13,57 65,57C68.87,57 72,53.87 72,50C72,46.13 68.87,43 65,43ZM65,47C66.66,47 68,48.34 68,50C68,51.66 66.66,53 65,53C63.34,53 62,51.66 62,50C62,48.34 63.34,47 65,47Z"/>
+</vector>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="?attr/colorPrimary" />
+                    <size android:width="40dp" android:height="40dp" />
+                </shape>
+            </item>
+            <item
+                android:drawable="@drawable/ic_repeat"
+                android:gravity="center">
+                <color android:color="?attr/colorOnPrimary" />
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item android:drawable="@drawable/ic_repeat">
+                <color android:color="?attr/colorOnSurface" />
+            </item>
+        </layer-list>
+    </item>
+</selector>

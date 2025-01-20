@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeraGaana</string>
+    <string name="album_art">Album Art</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="settings">Settings</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="queue">Queue</string>
+    <string name="remove_from_queue">Remove from queue</string>
+    <string name="drag_to_reorder">Drag to reorder</string>
+    <string name="player">Player</string>
+    <string name="your_music">Your Music</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="play_what_you_love">Music is Love❤</string>
+</resources>
